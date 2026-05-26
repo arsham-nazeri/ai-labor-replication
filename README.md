@@ -41,3 +41,10 @@ Employment distribution shows no simple displacement pattern.
 |---|---|---|---|
 | Log Annual Wage | 0.21 | <0.001 | 0.28 |
 | Log Employment | 0.14 | 0.028 | 0.0
+
+### 3. Most and Least AI-Exposed Occupations
+![Top Bottom Occupations](outputs/ai_top_bottom_occupations.png)
+
+Counterintuitively, high-skill cognitive occupations (actuaries, judges,
+financial examiners) face the highest AI exposure — not low-skill 
+workers. Physical, embodied work remains largely insulated.
