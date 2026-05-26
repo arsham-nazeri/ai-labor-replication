@@ -1,0 +1,5 @@
+*.zip
+*.csv
+data/oews_2025/
+.ipynb_checkpoints/
+__pycache__/
