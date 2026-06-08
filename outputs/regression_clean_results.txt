@@ -1,0 +1,27 @@
+                            WLS Regression Results                            
+==============================================================================
+Dep. Variable:               log_wage   R-squared:                       0.570
+Model:                            WLS   Adj. R-squared:                  0.568
+Method:                 Least Squares   F-statistic:                     326.8
+Date:                Mon, 08 Jun 2026   Prob (F-statistic):          4.44e-135
+Time:                        13:10:58   Log-Likelihood:                -666.99
+No. Observations:                 744   AIC:                             1342.
+Df Residuals:                     740   BIC:                             1360.
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+========================================================================================
+                           coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+Intercept               10.5887      0.026    412.579      0.000      10.538      10.639
+AIOE                     0.1126      0.025      4.462      0.000       0.063       0.162
+education_level          0.1196      0.007     17.021      0.000       0.106       0.133
+AIOE:education_level    -0.0031      0.007     -0.434      0.665      -0.017       0.011
+==============================================================================
+Omnibus:                      279.031   Durbin-Watson:                   1.021
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             5200.692
+Skew:                           1.197   Prob(JB):                         0.00
+Kurtosis:                      15.729   Cond. No.                         14.5
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
